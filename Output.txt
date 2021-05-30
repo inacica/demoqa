@@ -1,0 +1,4 @@
+Name:test user
+Email:test@blabla.com
+Current Address :Street A, Madrid 28001 Spain
+Permananet Address :Street X, Stockholm 112201 Sweden
